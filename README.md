@@ -1,5 +1,6 @@
 <h1 align="center">Hello <img width="35" src="https://github.com/ThomyLorenzatti/ThomyLorenzatti/blob/main/resources/img/waving.gif"></br>I am Thomy Lorenzatti</h1>
 <h3 align="center">Passionate Full-Stack Developer | 4th Year Student at Epitech | Exchange Student at Chung Ang University, Korea</h3>
+<h3 align="center">⬅️ Profile Picture generated with Midjourney AI</h3>
 
 <p align="center">
   <img  src="https://github.com/ThomyLorenzatti/ThomyLorenzatti/blob/main/resources/img/grid-snake.svg">
